@@ -1,0 +1,45 @@
+Arguments: 
+  D:\software\nodejs\node.exe C:\Users\Administrator\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add @hspjs/components
+
+PATH: 
+  C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;D:\software\nvm;C:\Program Files\nodejs;C:\Program Files\Git\cmd;D:\software\微信web开发者工具\dll;D:\software\nodejs\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;D:\software\nvm;C:\Program Files\nodejs;D:\software\Microsoft VS Code\bin;C:\Users\Administrator\AppData\Roaming\npm
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  16.17.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: ENOENT: no such file or directory, copyfile 'C:\Users\Administrator\AppData\Local\Yarn\Cache\v6\npm-jsonfile-4.0.0-8771aae0799b64076b76640fca058f9c10e33ecb-integrity\node_modules\jsonfile\CHANGELOG.md' -> 'D:\study\components_vue3\node_modules\@rushstack\node-core-library\node_modules\jsonfile\CHANGELOG.md'
+
+npm manifest: 
+  {
+    "name": "hsp-ui",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "@vitejs/plugin-vue": "^3.1.0",
+      "less": "^4.1.3",
+      "typescript": "^4.8.4",
+      "vite": "^3.1.3",
+      "vite-plugin-dts": "^1.5.0",
+      "vue": "^3.2.36"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

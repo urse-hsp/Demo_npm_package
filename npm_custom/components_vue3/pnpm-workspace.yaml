@@ -1,0 +1,4 @@
+packages:
+  - packages/*
+  - examples
+# 项目之间能够互相 关联到一块。关联更多目录你只需要往里面添加即可
