@@ -8,3 +8,4 @@ npm version major
 
 pnpm publish --access public 发包
 
+npm login 登录
