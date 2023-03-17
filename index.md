@@ -6,7 +6,7 @@ npm version minor
 # From 1.1.0 -> 2.0.0
 npm version major
 
-pnpm publish --access public 发包
+npm publish --access public 发包
 
 npm login 登录
 
